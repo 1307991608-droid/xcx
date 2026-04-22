@@ -1,0 +1,6 @@
+{
+  "name": "灵宠世界 (Spirit Pet World)",
+  "description": "一种潮玩风格的 AI 灵宠互动应用，融合国潮插画与涂鸦艺术，提供 AI 对话、占卜、心灵记录及潮玩市集功能。",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI 对话", "潮玩养成", "灵宠占卜"]
+}
